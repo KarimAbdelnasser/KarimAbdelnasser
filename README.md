@@ -18,7 +18,6 @@ I'm a backend developer 💻 with a passion for crafting robust backend solution
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=square&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-007ACC?style=square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=square&logo=mysql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=square&logo=amazon-aws)
 ![Git](http://img.shields.io/badge/-Git-F1502F?style=square&logo=git&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-000000?style=square&logo=github)
