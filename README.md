@@ -9,16 +9,16 @@ I'm a backend developer 💻 with a passion for crafting robust backend solution
   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <br>
 
-### Tech & Tools Preference
+### Languages and tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Nestjs](https://img.shields.io/badge/-nestjs-black?style=flat-square&logo=nestjs)
-![Expressjs](https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=Express)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
-![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=square&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-nestjs-black?style=square&logo=nestjs)
+![Expressjs](https://img.shields.io/badge/-Express.js-787878?style=square&logo=Express)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-007ACC?style=square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=square&logo=mysql&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=square&logo=amazon-aws)
+![Git](http://img.shields.io/badge/-Git-F1502F?style=square&logo=git&logoColor=white)
+![Github](http://img.shields.io/badge/-Github-000000?style=square&logo=github)
