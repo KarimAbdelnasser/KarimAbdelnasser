@@ -11,9 +11,9 @@ I'm a backend developer 💻 with a passion for crafting robust backend solution
 
 ### Languages and tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=square&logo=Node.js)
-![Nestjs](https://img.shields.io/badge/-nestjs-black?style=square&logo=nestjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232F3E?style=square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-232F3E?style=square&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-nestjs-232F3E?style=square&logo=nestjs)
 ![Expressjs](https://img.shields.io/badge/-Express.js-787878?style=square&logo=Express)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=square&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=square&logo=mongodb&logoColor=white)
